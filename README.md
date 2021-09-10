@@ -189,7 +189,7 @@
 
 ```json
 {
-  "guid":"fbaf5fcb153d-187a-14f4-797f-f6a6e5b8"
+  "guid":"fbaf5fcb153d-187a-14f4-797f-f6a6e5b8",
   "vehicleType":"racrepus",
   "marque":"aredsi",
   "model":"i801 rotarepmi",
